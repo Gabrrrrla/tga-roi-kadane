@@ -1,5 +1,5 @@
 # tga-roi-kadane
-Ana Beatriz e Gabriela Bley Rodrigues - Análise e Projeto de Algoritmos - Profa. Andriele Busatto do Carmo
+Ana Beatriz Stahl e Gabriela Bley Rodrigues - Análise e Projeto de Algoritmos - Profa. Andriele Busatto do Carmo
 
 A solução proposta utiliza uma adaptação do algoritmo de Kadane para identificar a região de interesse (ROI) em imagens, focando em encontrar submatrizes que apresentam a maior soma de intensidades de pixel.
 
